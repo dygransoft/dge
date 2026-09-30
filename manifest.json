@@ -1,0 +1,16 @@
+{
+  "versao_geral": "1.0.0",
+  "atualizar_ibpt": true,
+  "pastas_obrigatorias": [
+    "Backup",
+    "Dados",
+    "Logo"
+  ],
+  "arquivos_obrigatorios": [
+    {
+      "nome": "Dygran.exe",
+      "url": "https://github.com/dygransoft/dge/releases/latest/download/Dygran.zip",
+      "hash_sha256": "C663039F36E0463FFBB7FEC2350DD251F8E3A3445CF3ABDE769D239250C52410"
+    }
+  ]
+}
