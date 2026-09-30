@@ -9,7 +9,7 @@
   "arquivos_obrigatorios": [
     {
       "nome": "Dygran.exe",
-      "url": "https://github.com/dygransoft/dge/releases/latest/download/Dygran.zip",
+      "url": "https://github.com/dygransoft/dge/releases/download/v3.0.12.1/Dygran.exe",
       "hash_sha256": "C663039F36E0463FFBB7FEC2350DD251F8E3A3445CF3ABDE769D239250C52410"
     }
   ]
